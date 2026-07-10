@@ -1,20 +1,29 @@
-# Linda Foundation Project Plan
+# Linda Foundation Platform
 
-## Goal
-Build a web application to help Linda Foundation manage:
+## Vision
+
+Build East Africa's leading digital platform for discovering, nurturing, and connecting artistic talent with opportunities.
+
+## Mission
+
+Provide artists with a platform to showcase their talents, access opportunities, connect with mentors, attract sponsors, and grow sustainable creative careers while enabling donors, partners, and volunteers to support artistic development.
+
+## Phase 1 (MVP)
+
+- Home Page
+- About Page
+- Artist Registration
+- Artist Profiles
+- Events
+- Admin Dashboard
+- Authentication
+
+## Future Phases
+
 - Donations
-- Volunteers
-- Beneficiaries
-- Community programs
-
-## Features
-- User Login
-- Dashboard
-- Donor Management
-- Volunteer Management
-- Beneficiary Management
-- Donation Tracking
-- Reports
-
-## Status
-Planning
+- Volunteer Portal
+- Partnership Portal
+- Opportunities Board
+- Learning Centre
+- AI Talent Matching
+- Mobile App
